@@ -5,5 +5,6 @@ public class NewProjectGit {
 		System.out.println("Success Stories");
 		System.out.println("First check");
 		System.out.println("Second Check");
+		System.out.println("Project completed");
 	}
 }
